@@ -1,0 +1,9 @@
+
+# dont include raw data
+data/*
+
+# virtual environment
+umads_venv/*
+
+
+eda/.ipynb_checkpoints/*
