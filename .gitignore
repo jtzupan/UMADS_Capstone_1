@@ -7,3 +7,5 @@ umads_venv/*
 
 
 eda/.ipynb_checkpoints/*
+
+.DS_Store
